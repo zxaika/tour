@@ -1,0 +1,42 @@
+{
+  "bookings": [
+    {
+      "id": 1778346035742,
+      "type": "tour",
+      "roomId": null,
+      "roomName": null,
+      "tourId": null,
+      "tourName": "Подземное царство",
+      "guestName": "Иван Иванов",
+      "guestPhone": "+79922932932939",
+      "guestTelegram": "@bestboy2009",
+      "guestEmail": "",
+      "guestsCount": 2,
+      "checkIn": "2026-05-21",
+      "checkOut": "2026-05-21",
+      "totalPrice": 80,
+      "status": "confirmed",
+      "notes": "",
+      "createdAt": "2026-05-09T17:00:35.742Z"
+    },
+    {
+      "id": 1778436353748,
+      "type": "tour",
+      "roomId": null,
+      "roomName": null,
+      "tourId": null,
+      "tourName": "Сванские башни",
+      "guestName": "Иван Иванов",
+      "guestPhone": "+79922932932939",
+      "guestTelegram": "@bestboy2009",
+      "guestEmail": "",
+      "guestsCount": 2,
+      "checkIn": "2026-05-19",
+      "checkOut": "2026-05-20",
+      "totalPrice": 300,
+      "status": "confirmed",
+      "notes": "",
+      "createdAt": "2026-05-10T18:05:53.748Z"
+    }
+  ]
+}
